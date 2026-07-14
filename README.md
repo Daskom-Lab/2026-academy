@@ -48,7 +48,7 @@ Throughout the academy, participants will explore various aspects of modern web 
 
 - [Muhammad Raditya Dwi Putra](https://github.com/petorikooru) [VIM]
   > As a tentor.  
-  > Website link -> [petorikooru.github.io](https://petorikooru.github.io/)
+  > Website link -> [ptrkr.moe](https://ptrkr.moe)
 - [Ahmad Syifa](https://github.com/Guaritore79) [GTR]
   > As a tentor.  
   > Website link -> [Web Profile](https://web-profile-gtr.vercel.app/)
