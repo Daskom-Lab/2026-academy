@@ -63,3 +63,9 @@ Throughout the academy, participants will explore various aspects of modern web 
   > As a tentor.
 
 ---
+## Academician
+
+- [Mauriza Maulana Arrasya](https://github.com/Mauriza Maulana) [MMA]
+> As an academician.
+> Website link -> [Website](https://website.com)
+
