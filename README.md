@@ -88,3 +88,5 @@ Throughout the academy, participants will explore various aspects of modern web 
   > As an academician.
 - [Rahmalia Putri Wandani](https://github.com/aliawalvez) [AEL]
   > As an academician.
+- [Aisyah Raihanna Razza Bahir](https://github.com/Raihanna01) [RAI]
+  > As an academician.
