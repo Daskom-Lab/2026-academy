@@ -31,7 +31,7 @@ Buatlah design untuk website dengan tema bebas dengan ketentuan berikut:
    - Button clicks → navigate
    - Form focus/error states
    - Hover effects
-   
+
 ---
 
 ## 💡 Catatan
@@ -44,25 +44,7 @@ Buatlah design untuk website dengan tema bebas dengan ketentuan berikut:
 
 ## 📤 Yang Dikumpulkan
 
-Silakan dijadikan zip dan upload [**di sini**](link-form) :
-
-1. **Screenshot Wireframe**
-   - Landing page wireframe (low-fidelity)
-   - Login page wireframe (low-fidelity)
-
-2. **Screenshot Design**
-   - Landing page design (high-fidelity)
-   - Login page design (high-fidelity)
-   - Component library
-
-3. **Figma Link** (shareable)
-   - File harus organized dengan clear naming
-   - Include prototype dengan interactions
-
-4. **Documentation PDF**
-   - Research & competitor analysis (1 page)
-   - Design approach & color palette explanation (1 page)
-   - Key screenshots dari design
+Silakan share link pengerjaan figma pada form berikut [**https://forms.gle/bBgavMJERnLwYNaDA**](https://forms.gle/bBgavMJERnLwYNaDA) :
 
 ---
 
