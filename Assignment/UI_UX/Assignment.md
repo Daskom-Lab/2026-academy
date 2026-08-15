@@ -1,4 +1,4 @@
-# 📌 UI/UX Bootcamp - Tugas: Landing Page & Login Page Design
+# 📌 WEEK 1 FE : UI/UX - Tugas: Landing Page & Login Page Design
 
 Pada tugas ini, peserta diminta untuk membuat **design landing page dan login page** dengan tema bebas menggunakan **Figma**.
 
@@ -62,9 +62,8 @@ Silakan share link pengerjaan figma pada form berikut [**https://forms.gle/bBgav
 ## 🎁 Bonus
 
 - Mobile responsive design
-- Dark mode variant
-- Loading/error/success states
 - Animations & transitions
+- Design another page (ex: resgistration)
 
 ---
 
