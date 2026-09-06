@@ -94,3 +94,5 @@ Throughout the academy, participants will explore various aspects of modern web 
   > As an academician.
 - [Aisyah Raihanna Razza Bahir](https://github.com/Raihanna01) [RAI]
   > As an academician.
+- [Alfin Wijaya Isdiyono](https://github.com/FYNprojects) [FYN]
+  > As an academician.
